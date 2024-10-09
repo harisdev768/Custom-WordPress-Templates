@@ -4,7 +4,6 @@ This repository contains custom WordPress template files to enhance or modify de
 
 ## Files Included:
 
-- **single.php**: Template for single post view.
 - **page.php**: Custom page template for standard pages.
 - **functions.php**: Additional theme functions.
 
